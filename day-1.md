@@ -1,4 +1,5 @@
 # Daily Learning
+![Cloudy morning](https://octodex.github.com/images/cloud.jpg)
 
 ## Morning Planning
 - [ ] Check out the [github blog](https://github.blog/) for topic ideas.
@@ -45,16 +46,16 @@ Example: Javascript Code:
 ```js
 var myVar = "Hello, world!";
 ```
+*******************************************
+![Mona the Octocat](myrepo/original.png)
+![Mona the Octocat](https://octodex.github.com/images/original.png)
+<img alt="Mona the Octocat" src="https://octodex.github.com/images/original.png"
+width="200" align="right">
 
 
 
 
 
 
-
-
-
-
-
+*******************************************
 .
-
